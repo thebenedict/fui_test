@@ -136,6 +136,7 @@ DEPENDENCIES
   designmodo-flatuipro-rails
   jbuilder (~> 1.2)
   jquery-rails
+  jquery-ui-rails
   less-rails
   pg
   rails (= 4.0.0)

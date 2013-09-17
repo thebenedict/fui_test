@@ -11,7 +11,13 @@
 // about supported directives.
 //
 //= require jquery
+//= require jquery.ui.datepicker
+//= require jquery.ui.slider
+//= require jquery.ui.spinner
+//= require jquery.ui.tooltip
+//= require jquery.ui.effect
 //= require jquery_ujs
 //= require twitter/bootstrap
+//= require flatuipro
 //= require turbolinks
 //= require_tree .
