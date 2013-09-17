@@ -25,7 +25,8 @@ gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
 gem 'jquery-ui-rails'
-gem 'designmodo-flatuipro-rails'
+gem 'designmodo-flatuipro-rails', '1.1.3.1',
+  :path => 'vendor/designmodo-flatuipro-rails-1.1.3.1'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
